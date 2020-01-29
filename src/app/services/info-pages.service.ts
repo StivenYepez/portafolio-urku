@@ -36,7 +36,7 @@ export class InfoPagesService {
 
 
       this.equipo = resp;
-      console.log(resp);
+      // console.log(resp);
     });
    }
 }
