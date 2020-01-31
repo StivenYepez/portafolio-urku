@@ -10,6 +10,8 @@ export class AboutComponent implements OnInit {
 
   constructor( public infoService: InfoPagesService) { }
 
+  
+
   ngOnInit() {
   }
 
